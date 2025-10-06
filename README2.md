@@ -1,7 +1,3 @@
-## setup
+## Lisans
 
-```bash
-git clone https://github.com/xneofetch/pkg-xneofetch-repo
-cd pkg-xneofetch-repo
-chmod +x mypkg.sh
-./mypkg.sh -S xneofetch
+Bu proje [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) ile lisanslanmıştır.
